@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "myCurse"
+rootProject.name = "curstool"
 include(":app")
